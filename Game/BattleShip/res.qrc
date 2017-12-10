@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>Images/Icons/Hit.png</file>
+        <file>Images/Icons/Icon-ana.png</file>
+        <file>Images/Icons/Icon-bastion.png</file>
+        <file>Images/Icons/Icon-dva.png</file>
+        <file>Images/Icons/Icon-genji.png</file>
+        <file>Images/Icons/Icon-hanzo.png</file>
+        <file>Images/Icons/Icon-Junkrat.png</file>
+        <file>Images/Icons/Icon-Lucio.png</file>
+        <file>Images/Icons/Icon-mccree.png</file>
+        <file>Images/Icons/Icon-mei.png</file>
+        <file>Images/Icons/Icon-mercy.png</file>
+        <file>Images/Icons/Icon-pharah.png</file>
+        <file>Images/Icons/Icon-reaper.png</file>
+        <file>Images/Icons/Icon-reinhardt.png</file>
+        <file>Images/Icons/Icon-Roadhog.png</file>
+        <file>Images/Icons/Icon-Soldier76.png</file>
+        <file>Images/Icons/Icon-sombra.png</file>
+        <file>Images/Icons/Icon-symmetra.png</file>
+        <file>Images/Icons/Icon-torbjorn.png</file>
+        <file>Images/Icons/Icon-widowmaker.png</file>
+        <file>Images/Icons/Icon-winston.png</file>
+        <file>Images/Icons/Icon-zarya.png</file>
+        <file>Images/Icons/Icon-zenyatta.png</file>
+        <file>Images/Icons/Miss.png</file>
+        <file>Images/Icons/overwatch-Icon.png</file>
+        <file>Images/Backgrounds/Hanamura.png</file>
+        <file>Images/Backgrounds/Grid.png</file>
+    </qresource>
+</RCC>
